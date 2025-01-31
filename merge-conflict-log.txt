@@ -1,0 +1,45 @@
+commit 306225f4a85695d1bc4bd486a2858a7cb4d61e7d
+Merge: c2886bc 4e3a175
+Author: Christian <josephcgarcia1001@gmail.com>
+Date:   Fri Jan 31 10:50:30 2025 -0800
+
+    Merge branch 'main' of https://github.com/josephchr1stian/CS3338-second-project
+
+commit c2886bcaf6fa1fa82ed3615962371bcd82aa2424
+Author: Christian <josephcgarcia1001@gmail.com>
+Date:   Fri Jan 31 10:46:41 2025 -0800
+
+    added repo location and log txt files
+
+commit a96d8f6ac542bf0fe074808e526b23a4541840d7
+Author: Christian <josephcgarcia1001@gmail.com>
+Date:   Fri Jan 31 10:43:50 2025 -0800
+
+    added my favorite game
+
+commit 4e3a1759be82a013c67b58a5ba76f267d41edeef
+Merge: a03259d d031080
+Author: christian <146480904+josephchr1stian@users.noreply.github.com>
+Date:   Fri Jan 31 10:40:21 2025 -0800
+
+    Merge pull request #1 from josephchr1stian/info-fill
+    
+    filled in blanks
+
+commit d031080bf9e79107e8099acefcfc7c0fe81211d0
+Author: Christian <josephcgarcia1001@gmail.com>
+Date:   Fri Jan 31 10:36:08 2025 -0800
+
+    filled in blanks
+
+commit a03259d05b2fe637a1ed7ef48f97410e59eb8448
+Author: Christian <josephcgarcia1001@gmail.com>
+Date:   Fri Jan 31 10:33:28 2025 -0800
+
+    added a read me
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
