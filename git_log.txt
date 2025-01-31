@@ -1,0 +1,23 @@
+commit a96d8f6ac542bf0fe074808e526b23a4541840d7
+Author: Christian <josephcgarcia1001@gmail.com>
+Date:   Fri Jan 31 10:43:50 2025 -0800
+
+    added my favorite game
+
+commit d031080bf9e79107e8099acefcfc7c0fe81211d0
+Author: Christian <josephcgarcia1001@gmail.com>
+Date:   Fri Jan 31 10:36:08 2025 -0800
+
+    filled in blanks
+
+commit a03259d05b2fe637a1ed7ef48f97410e59eb8448
+Author: Christian <josephcgarcia1001@gmail.com>
+Date:   Fri Jan 31 10:33:28 2025 -0800
+
+    added a read me
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
